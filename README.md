@@ -4,10 +4,9 @@ An academic tasks manager for a goood academic journey
 
 Features
 
-Unlimited Task Tracking Add, update, and remove financial tasks effortlessly to keep your records organized.
-Multi-Currency Compatibility Supports RWF, USD, and EUR with manual exchange rate configuration for accurate conversions.
-Budget Limits & Notifications Set monthly spending caps and receive real-time ARIA live alerts when you're nearing your limits.
-Advanced Regex Search Use powerful regular expressions to search and filter your financial tasks with precision.
+Unlimited Task Tracking Add, update, and remove finished tasks effortlessly to keep your academic tasks organized.
+it receive real-time ARIA live alerts when you're nearing your limits.
+Advanced Regex Search Use powerful regular expressions to search and filter your Academic tasks with precision.
 JSON Backup & Restore Export your data for safekeeping or import it to continue where you left off.
 Responsive Layout Optimized for mobile (360px), tablet (768px), and desktop (1024px+) screens.
 Keyboard-First Navigation Fully accessible with complete keyboard support for seamless interaction.
@@ -39,3 +38,4 @@ Then visit: http://localhost:8000
 No build tools or setup required—just open and go!
 
 Let me know if you'd like this formatted as a downloadable file or want help customizing it further for GitHub or documentation sites!
+
